@@ -1,0 +1,8 @@
+MM-DD-YY,sport,result,gvsu_score,opponent,opp_score,home_game
+10-26-19,football,W,27,Davenport,7,yes
+10-27-19,soccer(W),W,7,Ferris State,0,yes
+11-08-19,soccer(W),W,7,Davenport,0,no
+11-09-19,football,L,16,Ferris State,21,no
+11-09-19,basketball(M),W,69,Alderson Broaddus,56,yes
+11-16-19,football,L,17,Wayne State,31,yes
+11-17-19,basketball(M),L,64,Calvin,78,no
